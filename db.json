@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Diego",
+      "age": 26,
+      "companyId": "3"
+    },
+    {
+      "id": "2",
+      "firstName": "Carla",
+      "age": 36,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Rey",
+      "age": 20,
+      "companyId": "3"
+    },
+    {
+      "firstName": "Claudio",
+      "age": 26,
+      "id": "dLlm2Lr"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "Android"
+    },
+    {
+      "id": "2",
+      "name": "Apple",
+      "description": "Search"
+    },
+    {
+      "id": "3",
+      "name": "Laureate",
+      "description": "LNOH"
+    }
+  ]
+}
